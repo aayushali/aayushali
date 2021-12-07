@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning full stack web development.
 - 👯 I’m looking to collaborate with web developers.
-- 📫 How to reach me: www.linkedin.com/aayushali 
+- 📫 How to reach me: https://np.linkedin.com/in/aayushali
 - ⚡ Fun fact:  I love to learn and dig into tech world.
 
