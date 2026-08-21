@@ -1,7 +1,1 @@
-# Hey, I'm Aayush!
-
-🔧 I build the bridge between code and creativity, transforming ideas into functional, dynamic web solutions. When I'm not coding, I'm usually exploring the latest tech trends or sharing thoughts with fellow developers.
-
-🎯 Always striving to make each project better than the last, I focus on crafting clean, intuitive, and scalable solutions that leave an impact.
-
-🚀 Let's innovate, collaborate, and create something that challenges the ordinary.
+Full-stack engineer with 5+ years building and shipping production web platforms. At rhome I work on the compliance assessment engine behind a global-mobility product, and I own features end to end across a Vue/TypeScript frontend and a Python service backend. I’m comfortable across the stack in TypeScript and Python, used to designing in clean service layers, and I work agent-first with Claude Code every day.
